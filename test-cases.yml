@@ -31,6 +31,6 @@
     Открыть https://hexlet-products-store.vercel.app/
   test-data: |
   steps:
-    - Выбрать категорию beauty
+    - Выбрать ввести в поиск название Bed
   expected-result: |
-    На странице отображается товары категории beauty
+    На странице отображается товары в названии которых есть Bed
